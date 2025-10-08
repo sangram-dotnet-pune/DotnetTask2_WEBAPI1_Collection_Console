@@ -47,7 +47,7 @@ namespace DemoWebAPI_ClientDemo
 
                     {
 
-                        Console.WriteLine("Product ID:" + e.Id + ",  Name:" + e.Name + "  Department:" + e.Department+" Mobile No:-"+e.MobileNo+" EMail:-"+e.Email);
+                        Console.WriteLine("Employee ID:" + e.Id + ",  Name:" + e.Name + "  Department:" + e.Department+" Mobile No:-"+e.MobileNo+" EMail:-"+e.Email);
 
                     }
 
